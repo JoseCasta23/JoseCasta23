@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <p>Este es mi primer comentario de dos lineas</p>
+    <p>Aprendiendo a documentar mi codigo en openbootcamp</p>
+    <ul>
+     <li><a href="https://www.youtube.com/watch?v=_GByIk7y15E&ab_channel=JDalmau">https://www.youtube.com/watch?v=_GByIk7y15E&ab_channel=JDalmau</a></li>
+     <li><a href="https://www.youtube.com/watch?v=NfZApqMM1NM&ab_channel=elxokas">https://www.youtube.com/watch?v=NfZApqMM1NM&ab_channel=elxokas</a></li>
+     <li><a href="https://www.youtube.com/watch?v=z5sVlMWlISU&ab_channel=IlloJuan">https://www.youtube.com/watch?v=z5sVlMWlISU&ab_channel=IlloJuan</a></li>
+    </ul>
+</body> 
+</html>
